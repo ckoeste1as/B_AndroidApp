@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Template</string>
+    <string name="home">Start</string>
+    <string name="settings">Einstellungen</string>
+    <string name="welcome">Willkommen in Deiner App</string>
+    <string name="intro">Kotlin, Jetpack Compose und Material 3 bilden die Grundlage für Dein nächstes Projekt.</string>
+    <string name="counter">Zähler: %1$d</string>
+    <string name="increment">Erhöhen</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="appearance">Darstellung</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Hell</string>
+    <string name="theme_dark">Dunkel</string>
+    <string name="settings_hint">Die Auswahl und der Zähler bleiben bei einer Bildschirmdrehung erhalten. Nach einem vollständigen Neustart gelten wieder die Standardwerte.</string>
+</resources>
